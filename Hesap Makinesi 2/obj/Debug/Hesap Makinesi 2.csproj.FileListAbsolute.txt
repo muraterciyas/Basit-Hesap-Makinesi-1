@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.exe.config
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.exe
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.pdb
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap_Makinesi_2.Form1.resources
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap_Makinesi_2.Properties.Resources.resources
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.exe
+C:\Users\Asus\Desktop\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.pdb
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.exe.config
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.exe
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\bin\Debug\Hesap Makinesi 2.pdb
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap_Makinesi_2.Form1.resources
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap_Makinesi_2.Properties.Resources.resources
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.exe
+C:\Users\Murat\Desktop\C# Dersi\Ornek_Uygulamalar\Hesap Makinesi 2\Hesap Makinesi 2\obj\Debug\Hesap Makinesi 2.pdb
